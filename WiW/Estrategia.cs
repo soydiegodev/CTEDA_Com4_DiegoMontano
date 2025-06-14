@@ -158,7 +158,11 @@ namespace tpfinal
 					nivelActual = nivelArbol;
 					resultado += "\n"+ "Nivel: " + nivelActual + "\n" ;
 				}
-				resultado += arbolActual.getDatoRaiz().ToString();
+				if (!arbolActual.esHoja()){
+					resultado += arbolActual.getDatoRaiz().Question.Texto + " - ";
+				}else{
+					resultado += arbolActual.getDatoRaiz().ToString() + " - ";
+				}
 				if( arbolActual.getHijoIzquierdo() != null){
 					colaArboles.encolar(arbolActual.getHijoIzquierdo());
 					colaNiveles.encolar(nivelActual +1);
