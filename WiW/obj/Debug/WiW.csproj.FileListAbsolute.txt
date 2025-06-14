@@ -1,0 +1,35 @@
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\bin\Debug\WiW.exe.config
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\bin\Debug\WiW.exe
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\bin\Debug\WiW.pdb
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.csprojResolveAssemblyReference.cache
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Form1.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Resultado.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Consultas.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.Inicio.resources
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.csproj.GenerateResource.Cache
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.exe
+C:\Users\java\Documents\SharpDevelop Projects\WiW\WiW\obj\Debug\WiW.pdb
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.csprojResolveAssemblyReference.cache
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Form1.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Form2.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Consultas.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Inicio.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.csproj.GenerateResource.Cache
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.FormUser.resources
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.exe.config
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.exe
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.pdb
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.exe
+C:\Users\java\Desktop\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.pdb
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.exe.config
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.exe
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\bin\Debug\WiW.pdb
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.csprojResolveAssemblyReference.cache
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Form1.resources
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Form2.resources
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Consultas.resources
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.FormUser.resources
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.Inicio.resources
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.csproj.GenerateResource.Cache
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.exe
+C:\Users\Sokah\Documents\Bóveda\Mis Escritos\Complejidad\trabajo final\TPF_WIW_Sharp\WiW_Sharp\WiW\obj\Debug\WiW.pdb
