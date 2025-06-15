@@ -10,6 +10,7 @@ namespace tpfinal
 
 	class Estrategia
 	{
+		
 		/* ------------------------------------------------------------------------------------------------
 		1. CrearArbol (Clasificador clasificador): Este método construye un árbol de decisión a
 		partir de un clasificador que es enviado como parámetro y retorna una instancia de
@@ -26,7 +27,8 @@ namespace tpfinal
 				// se guarda la pregunta en una variable, con ella se crea una DecisionData y un nuevo arbol
 				Pregunta preguntaActual = clasificador.obtenerPregunta();
 				ArbolBinario<DecisionData> arbol = new ArbolBinario<DecisionData>(new DecisionData(preguntaActual));
-				// se obtiene los clasificadores y se hace llamadas recursivas para crear un arbol izq y un arbol der con ellos
+				// se obtiene los clasificadores y se hace llamadas recursivas 
+				// para crear un arbol hijo izquierdo y un arbol hijo derecho con ellos
 				Clasificador clasificadorIzq = clasificador.obtenerClasificadorIzquierdo();
 				Clasificador clasificadorDer = clasificador.obtenerClasificadorDerecho();
 				arbol.agregarHijoIzquierdo(CrearArbol(clasificadorIzq));
@@ -40,7 +42,7 @@ namespace tpfinal
 		*/
 		public String Consulta1(ArbolBinario<DecisionData> arbol)
 		{
-			// se usa un metodo que recorre el arbol en preorden modificado,
+			// se hace uso de un metodo que recorre el arbol en preorden modificado,
 			// al metodo se le pasa por parametro el arbol a recorrer y un string pasado por ref donde 
 			// quiero que se concatene todas las predicciones que estan en los nodos hojas.
 			string resultado="";
@@ -61,18 +63,18 @@ namespace tpfinal
 			}else{
 				// se concatena las predicciones de un nodo hojas, en un string "prediciones" pasado por ref
 				// se obtiene el dato raiz de una hoja que debe de ser un DecisionData 
-				// y se obtienen las prediccion con el metodo Tostring();
+				// y se obtienen las predicciones con el metodo Tostring();
 				predicciones += arbol.getDatoRaiz().ToString() +"\n";
 			}
 		}
 		/* ------------------------------------------------------------------------------------------------
-		3. Consulta2 (ArbolBinario< DecisionData > arbol): Retorna un texto que contiene todos los caminos 
+		3. Consulta2(ArbolBinario< DecisionData > arbol): Retorna un texto que contiene todos los caminos 
 		hasta cada predicción.
 		 */
 		public String Consulta2(ArbolBinario<DecisionData> arbol)
 		{
 			// se obtiene los caminos en una lista y luego se concatena los caminos a un string para ser mostrado
-			// ademas como plus se "dibuja el arbol de dicision para que se vea el resultado de forma mas visual.
+			// ademas como plus se "dibuja" el arbol de dicision para que se vea el resultado de forma mas visual.
 			string camino ="";
 			List<string>caminos= new List<string>();
 			string todosLosCaminosHastaPrediccion ="";
@@ -88,7 +90,8 @@ namespace tpfinal
 			
 		private void ObtenerCaminos(ArbolBinario<DecisionData> arbol, ref string camino,ref List<string> caminos){
 			// una variacion del metodo obtenerPredicciones() , este ademas de recorrer hasta las hojas(predicciones), 
-			// concatena el nodo(Pregunta) en el camino hasta llegar a una hoja donde todo el camino se agregas a una lista de caminos.
+			// concatena el nodo(Pregunta) en el camino hasta llegar a una hoja, obteniendo asi todo el camino hasta una hoja 
+			// se agregan cada camino a la lista de caminos.
 			if(arbol == null){
 				return;
 			}
